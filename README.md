@@ -11,9 +11,6 @@ Demonstração **didática** de dois conceitos juntos:
    tempo real e, ao encontrar o sabor **"Pizza de Peperoni"** dentro de um
    arquivo, revela o **código de cor RGB** escrito ao lado dele.
 
-> ⚠️ Uso **exclusivamente educacional**, em ambiente controlado e com dados
-> fictícios. A tela de login avisa claramente que é uma simulação.
-
 ---
 
 ## Estrutura das pastas
