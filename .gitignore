@@ -1,0 +1,12 @@
+# Arquivos gerados em tempo de execução (não precisam ir pro repo)
+acessos.txt
+resultados.txt
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Artefatos de build do PyInstaller (o .exe final fica em "Jogo da Velha/")
+build/
+dist/
+*.spec

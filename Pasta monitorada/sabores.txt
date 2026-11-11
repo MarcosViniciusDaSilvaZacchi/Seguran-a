@@ -1,0 +1,14 @@
+Cardapio de Pizzas — Codigo de cor RGB (hexadecimal) de cada sabor
+===================================================================
+
+Pizza de Peperoni     #FF6347
+Pizza de Calabresa    #8B0000
+Pizza Portuguesa      #FFA500
+Pizza Marguerita      #2E8B57
+Pizza Quatro Queijos  #FFD700
+Pizza de Frango       #DEB887
+Pizza de Bacon        #A0522D
+Pizza de Banana       #FFE135
+Pizza Vegetariana     #228B22
+Pizza de Atum         #4682B4
+Pizza de Chocolate    #3B2F2F
